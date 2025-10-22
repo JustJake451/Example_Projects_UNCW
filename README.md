@@ -1,2 +1,3 @@
-# BAN_403_Group_Project
-Final Project for BAN 403. Optimized a schedule for a fantasy soccer league
+# Example_Projects_UNCW
+These are examples of various projects/assignments I have worked on during my time at UNCW.
+They include Python files, PowerBI, SQL, and Excel/
